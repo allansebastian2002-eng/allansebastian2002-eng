@@ -54,7 +54,7 @@ I'm **[allan sebastian]**, a Engineering Graduate and a python programmer. With 
 | *Project*      | *Description*                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **[decentralised social media website](https://github.com/allansebastian2002-eng/allansebastian2002-eng)**    | it is useful for fuure |
-| **[Project 2](https://github.com/)**    | Short Description | 
+| **[Smart Medical Prescription Service](https://github.com/allansebastian2002-eng/allansebastian2002-eng/edit/main/README.md)**    | it is used for medical acesses | 
 | **[Project 3](https://github.com/)**    | Short Description |
 
 ---
