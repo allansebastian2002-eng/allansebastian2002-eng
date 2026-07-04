@@ -53,8 +53,8 @@ I'm **[allan sebastian]**, a Engineering Graduate and a python programmer. With 
 
 | *Project*      | *Description*                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[De](httpscentralised social media website://github.com/allansebastian2002-eng/Decentralised-Social-Media-Website)**    |it is much useful for future |
-| **[Project 2](https://github.com/)**    | Short Description |
-| **[Project 3](https://github.com/)**    | Short Description | 
+| **[decentralised social media website](https://github.com/allansebastian2002-eng/allansebastian2002-eng)**    | it is useful for fuure |
+| **[Project 2](https://github.com/)**    | Short Description | 
+| **[Project 3](https://github.com/)**    | Short Description |
 
 ---
